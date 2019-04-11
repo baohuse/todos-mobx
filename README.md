@@ -1,8 +1,2 @@
-## 简单的todo
-
-todo所需要的数据
-[
-    id: '1',
-    text: '今天我要吃三碗',
-    completed: true
-]
+## 关于在 cra2.x babel7 中使用 mobx装饰器写法请参考
+https://github.com/mobxjs/mobx-react/issues/575
